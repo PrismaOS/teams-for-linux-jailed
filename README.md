@@ -26,3 +26,17 @@ Purpose: a script to load teams-for-linux in a firejail, or alternatively provid
 #          the hell out of me that despite an application being in a jail, it appears to
 #          the user as if it has access to my home folder.
 ```
+
+# Global variables
+```shell
+# DEBUG - if set to "yes", will output some variable status along the way
+# EXECUTE - if set to "no", has the same effect as --dry-run, but permanently (until changed back to "yes")
+DEBUG="no" # set to yes for debugging output
+EXECUTE="yes"  # set to yes if final command shall be executed, no if not. Parameter --dry-run sets this to "no"
+
+# Configure your firejail path for teams-for-linux here:
+TEAMS4L_JAIL_PATH="~/jails/teams-for-linux"
+
+# The pattern that will be replaced with msteams:/l in a meeting link
+TEAMS_LINK_PATTERN="https\:\/\/teams\.microsoft\.com\/l"
+```
