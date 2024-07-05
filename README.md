@@ -1,11 +1,11 @@
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 # teams-for-linux-jailed.sh
+```
 Script:  teams-for-linux-jailed.sh
-
 Version: 2024-07-05 14:15 UTC
-
 Purpose: a script to load teams-for-linux in a firejail, or alternatively provide a meeting link to load in an already open / active t4l window
+```
 
 # Supported parameters
 ```shell
