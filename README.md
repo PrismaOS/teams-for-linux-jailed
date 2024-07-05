@@ -1,6 +1,14 @@
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 # teams-for-linux-jailed.sh
+
+A helper script to run [teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) in a [firejail](https://www.man7.org/linux/man-pages/man1/Firejail.1.html).
+
+*A teams-for-linux deb and rpm repository can be found at (https://teamsforlinux.de) hosted by [Nils Büchner](https://github.com/nbuechner).*
+
+**Disclaimer**: I have personally not reviewed the source code of teams-for-linux and do not know whether it is safe to use (one of the reasons for me using it in a firejail in the first place). This repository shall under no circumstances be interpreted as a seal of approval for the correct functionality of teams-for-linux.
+
+
 ```
 Script:  teams-for-linux-jailed.sh
 Version: 2024-07-05 14:15 UTC
