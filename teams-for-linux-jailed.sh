@@ -1,8 +1,7 @@
 #!/bin/sh
 SCRIPT=teams-for-linux-jailed.sh
-VERSION="2024-07-05 13:30 UTC"
+VERSION="2024-07-05 14:15 UTC"
 PURPOSE="a script to load teams-for-linux in a firejail, or alternatively provide a meeting link to load in an already open / active t4l window"
-PARAMS_00=""
 PARAMS_01="# Supported parameters:"
 PARAMS_02="#  --url      if the parameter --url is explicitly provided, the next parameter on the"
 PARAMS_03="#             command line will be force-interpreted as a meeting link (and fail, if"
@@ -90,7 +89,6 @@ if [ "$HELP" = "yes" ]; then
     echo ""
     echo "Usage:"
     echo "-------------------------------"
-    echo "$PARAMS_00"
     echo "$PARAMS_01"
     echo "$PARAMS_02"
     echo "$PARAMS_03"
