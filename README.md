@@ -1,4 +1,4 @@
-[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page) (Welp, there is now)
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page) (Welp, there is now cause its under Apache, and Codeberg's uptime is terrible)
 
 # teams-for-linux-jailed.sh
 
