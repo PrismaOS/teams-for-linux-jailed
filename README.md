@@ -1,4 +1,4 @@
-[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page) (Welp, there is now cause its under Apache, and Codeberg's uptime is terrible)
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page) (This project is licensed under Apache-2.0, which explicitly permits redistribution and mirroring. Requests to restrict hosting platforms (particularly those with notably less reliability) are incompatible with that license and cannot be enforced.)
 
 # teams-for-linux-jailed.sh
 
